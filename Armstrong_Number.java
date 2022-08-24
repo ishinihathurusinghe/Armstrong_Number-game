@@ -1,4 +1,4 @@
-import java.awt.*                            ;
+import java.awt.*                             ;
 import java.applet.*;
 import java.awt.event.*;
 public class Armstrong_Number extends Applet implements ActionListener
